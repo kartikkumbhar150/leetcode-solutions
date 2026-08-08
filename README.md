@@ -1,5 +1,5 @@
 # 🚀 LeetCode Solutions
 
-Auto-synced by **LeetSync** Chrome Extension.
+Auto-synced by **uCode** Chrome Extension.
 
-> *Last updated: July 19, 2026*
+> *Last updated: August 8, 2026*
